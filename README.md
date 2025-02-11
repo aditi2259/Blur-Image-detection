@@ -1,1 +1,1 @@
-# Blur-Image-detection
+Blur and clear image detection
